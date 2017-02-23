@@ -1,0 +1,491 @@
+"","station_name","datetime","predicted"
+"1","South Van Ness at Market","2014-09-01",0.0530812014737032
+"2","South Van Ness at Market","2014-09-02",-3.38794366689057
+"3","South Van Ness at Market","2014-09-03",-5.18322421768874
+"4","South Van Ness at Market","2014-09-04",-1.58894698457987
+"5","South Van Ness at Market","2014-09-05",-4.56882462800896
+"6","South Van Ness at Market","2014-09-06",2.94074293907678
+"7","South Van Ness at Market","2014-09-07",1.36435043942562
+"8","South Van Ness at Market","2014-09-08",-0.170883467025974
+"9","South Van Ness at Market","2014-09-09",-3.61190833539025
+"10","South Van Ness at Market","2014-09-10",-5.40718888618842
+"11","South Van Ness at Market","2014-09-11",-1.81291165307955
+"12","South Van Ness at Market","2014-09-12",-4.79278929650863
+"13","South Van Ness at Market","2014-09-13",2.7167782705771
+"14","South Van Ness at Market","2014-09-14",1.14038577092594
+"15","Market at 10th","2014-09-01",-9.60552286046721
+"16","Market at 10th","2014-09-02",-6.18098895814367
+"17","Market at 10th","2014-09-03",-9.62972190614558
+"18","Market at 10th","2014-09-04",-10.1960595404589
+"19","Market at 10th","2014-09-05",-9.89167823817709
+"20","Market at 10th","2014-09-06",-4.233417886805
+"21","Market at 10th","2014-09-07",-4.6190514196691
+"22","Market at 10th","2014-09-08",-10.08533731473
+"23","Market at 10th","2014-09-09",-6.66080341240651
+"24","Market at 10th","2014-09-10",-10.1095363604084
+"25","Market at 10th","2014-09-11",-10.6758739947217
+"26","Market at 10th","2014-09-12",-10.3714926924399
+"27","Market at 10th","2014-09-13",-4.71323234106784
+"28","Market at 10th","2014-09-14",-5.09886587393194
+"29","San Francisco City Hall","2014-09-01",-0.266888019790142
+"30","San Francisco City Hall","2014-09-02",-1.06206217681281
+"31","San Francisco City Hall","2014-09-03",-0.677899428729045
+"32","San Francisco City Hall","2014-09-04",2.28091527346678
+"33","San Francisco City Hall","2014-09-05",1.71408152142403
+"34","San Francisco City Hall","2014-09-06",1.98016496071335
+"35","San Francisco City Hall","2014-09-07",-0.122651678533615
+"36","San Francisco City Hall","2014-09-08",0.111454696916427
+"37","San Francisco City Hall","2014-09-09",-0.683719460106246
+"38","San Francisco City Hall","2014-09-10",-0.299556712022477
+"39","San Francisco City Hall","2014-09-11",2.65925799017335
+"40","San Francisco City Hall","2014-09-12",2.0924242381306
+"41","San Francisco City Hall","2014-09-13",2.35850767741992
+"42","San Francisco City Hall","2014-09-14",0.255691038172953
+"43","Golden Gate at Polk","2014-09-01",-3.87984715977501
+"44","Golden Gate at Polk","2014-09-02",-4.1617886967131
+"45","Golden Gate at Polk","2014-09-03",-4.38610240268287
+"46","Golden Gate at Polk","2014-09-04",-4.52853907134811
+"47","Golden Gate at Polk","2014-09-05",-2.96066978317688
+"48","Golden Gate at Polk","2014-09-06",-1.50058236949575
+"49","Golden Gate at Polk","2014-09-07",-0.499080334482909
+"50","Golden Gate at Polk","2014-09-08",-4.21419601742538
+"51","Golden Gate at Polk","2014-09-09",-4.49613755436348
+"52","Golden Gate at Polk","2014-09-10",-4.72045126033324
+"53","Golden Gate at Polk","2014-09-11",-4.86288792899848
+"54","Golden Gate at Polk","2014-09-12",-3.29501864082725
+"55","Golden Gate at Polk","2014-09-13",-1.83493122714612
+"56","Golden Gate at Polk","2014-09-14",-0.833429192133281
+"57","Civic Center BART (7th at Market)","2014-09-01",1.56010529370784
+"58","Civic Center BART (7th at Market)","2014-09-02",-0.0365309377696945
+"59","Civic Center BART (7th at Market)","2014-09-03",2.20141417277252
+"60","Civic Center BART (7th at Market)","2014-09-04",0.00450569185830663
+"61","Civic Center BART (7th at Market)","2014-09-05",-0.323122215169952
+"62","Civic Center BART (7th at Market)","2014-09-06",-1.12514988641857
+"63","Civic Center BART (7th at Market)","2014-09-07",3.00332973131286
+"64","Civic Center BART (7th at Market)","2014-09-08",1.48663847258923
+"65","Civic Center BART (7th at Market)","2014-09-09",-0.109997758888303
+"66","Civic Center BART (7th at Market)","2014-09-10",2.12794735165391
+"67","Civic Center BART (7th at Market)","2014-09-11",-0.0689611292603023
+"68","Civic Center BART (7th at Market)","2014-09-12",-0.396589036288561
+"69","Civic Center BART (7th at Market)","2014-09-13",-1.19861670753718
+"70","Civic Center BART (7th at Market)","2014-09-14",2.92986291019425
+"71","Powell Street BART","2014-09-01",0.771658261929445
+"72","Powell Street BART","2014-09-02",4.18826618400209
+"73","Powell Street BART","2014-09-03",4.50680140238446
+"74","Powell Street BART","2014-09-04",1.57282971117181
+"75","Powell Street BART","2014-09-05",1.46822991613669
+"76","Powell Street BART","2014-09-06",2.78899929157885
+"77","Powell Street BART","2014-09-07",-0.145699070143193
+"78","Powell Street BART","2014-09-08",0.555388402571468
+"79","Powell Street BART","2014-09-09",3.97199632464412
+"80","Powell Street BART","2014-09-10",4.29053154302648
+"81","Powell Street BART","2014-09-11",1.35655985181384
+"82","Powell Street BART","2014-09-12",1.25196005677871
+"83","Powell Street BART","2014-09-13",2.57272943222087
+"84","Powell Street BART","2014-09-14",-0.361968929501169
+"85","Powell at Post (Union Square)","2014-09-01",-8.15730339184963
+"86","Powell at Post (Union Square)","2014-09-02",-10.890669255204
+"87","Powell at Post (Union Square)","2014-09-03",-10.2064449721926
+"88","Powell at Post (Union Square)","2014-09-04",-7.34902173787538
+"89","Powell at Post (Union Square)","2014-09-05",-6.6479219147642
+"90","Powell at Post (Union Square)","2014-09-06",-2.9332825091651
+"91","Powell at Post (Union Square)","2014-09-07",-1.49399921256655
+"92","Powell at Post (Union Square)","2014-09-08",-8.04502427386422
+"93","Powell at Post (Union Square)","2014-09-09",-10.7783901372186
+"94","Powell at Post (Union Square)","2014-09-10",-10.0941658542072
+"95","Powell at Post (Union Square)","2014-09-11",-7.23674261988997
+"96","Powell at Post (Union Square)","2014-09-12",-6.53564279677879
+"97","Powell at Post (Union Square)","2014-09-13",-2.82100339117969
+"98","Powell at Post (Union Square)","2014-09-14",-1.38172009458113
+"99","5th at Howard","2014-09-01",2.83311944804957
+"100","5th at Howard","2014-09-02",2.80972105398212
+"101","5th at Howard","2014-09-03",3.18851611452004
+"102","5th at Howard","2014-09-04",2.21533360983138
+"103","5th at Howard","2014-09-05",3.24826773898239
+"104","5th at Howard","2014-09-06",2.2891900917186
+"105","5th at Howard","2014-09-07",-0.88893808343307
+"106","5th at Howard","2014-09-08",2.77616373817384
+"107","5th at Howard","2014-09-09",2.7527653441064
+"108","5th at Howard","2014-09-10",3.13156040464432
+"109","5th at Howard","2014-09-11",2.15837789995565
+"110","5th at Howard","2014-09-12",3.19131202910666
+"111","5th at Howard","2014-09-13",2.23223438184288
+"112","5th at Howard","2014-09-14",-0.945893793308797
+"113","Market at 4th","2014-09-01",-4.03978929257271
+"114","Market at 4th","2014-09-02",0.874190867041468
+"115","Market at 4th","2014-09-03",-1.13885081985896
+"116","Market at 4th","2014-09-04",0.896640483354856
+"117","Market at 4th","2014-09-05",-1.77591801598577
+"118","Market at 4th","2014-09-06",2.36944512834174
+"119","Market at 4th","2014-09-07",3.89985980746556
+"120","Market at 4th","2014-09-08",-4.76597976876319
+"121","Market at 4th","2014-09-09",0.148000390850992
+"122","Market at 4th","2014-09-10",-1.86504129604943
+"123","Market at 4th","2014-09-11",0.17045000716438
+"124","Market at 4th","2014-09-12",-2.50210849217624
+"125","Market at 4th","2014-09-13",1.64325465215127
+"126","Market at 4th","2014-09-14",3.17366933127508
+"127","Post at Kearny","2014-09-01",-1.70692348078414
+"128","Post at Kearny","2014-09-02",0.869377030247794
+"129","Post at Kearny","2014-09-03",-1.27995503391269
+"130","Post at Kearny","2014-09-04",1.33037727799485
+"131","Post at Kearny","2014-09-05",-1.73056166403106
+"132","Post at Kearny","2014-09-06",0.461762164666667
+"133","Post at Kearny","2014-09-07",-0.548333323551707
+"134","Post at Kearny","2014-09-08",-1.66686496095468
+"135","Post at Kearny","2014-09-09",0.909435550077252
+"136","Post at Kearny","2014-09-10",-1.23989651408323
+"137","Post at Kearny","2014-09-11",1.37043579782431
+"138","Post at Kearny","2014-09-12",-1.6905031442016
+"139","Post at Kearny","2014-09-13",0.501820684496125
+"140","Post at Kearny","2014-09-14",-0.508274803722249
+"141","Commercial at Montgomery","2014-09-01",2.14248863335823
+"142","Commercial at Montgomery","2014-09-02",2.74780920693992
+"143","Commercial at Montgomery","2014-09-03",5.46450813066081
+"144","Commercial at Montgomery","2014-09-04",4.33113186465502
+"145","Commercial at Montgomery","2014-09-05",1.3445402871705
+"146","Commercial at Montgomery","2014-09-06",0.513275753013807
+"147","Commercial at Montgomery","2014-09-07",-0.165801495544063
+"148","Commercial at Montgomery","2014-09-08",2.52964599577439
+"149","Commercial at Montgomery","2014-09-09",3.13496656935608
+"150","Commercial at Montgomery","2014-09-10",5.85166549307697
+"151","Commercial at Montgomery","2014-09-11",4.71828922707117
+"152","Commercial at Montgomery","2014-09-12",1.73169764958666
+"153","Commercial at Montgomery","2014-09-13",0.900433115429965
+"154","Commercial at Montgomery","2014-09-14",0.221355866872095
+"155","Washington at Kearny","2014-09-01",2.95437956738012
+"156","Washington at Kearny","2014-09-02",0.527537166002899
+"157","Washington at Kearny","2014-09-03",0.000771273971712227
+"158","Washington at Kearny","2014-09-04",3.8073367682952
+"159","Washington at Kearny","2014-09-05",-0.100384026651212
+"160","Washington at Kearny","2014-09-06",-2.12683187522132
+"161","Washington at Kearny","2014-09-07",-1.53482993796374
+"162","Washington at Kearny","2014-09-08",2.11874704740088
+"163","Washington at Kearny","2014-09-09",-0.308095353976345
+"164","Washington at Kearny","2014-09-10",-0.834861246007532
+"165","Washington at Kearny","2014-09-11",2.97170424831596
+"166","Washington at Kearny","2014-09-12",-0.936016546630456
+"167","Washington at Kearny","2014-09-13",-2.96246439520056
+"168","Washington at Kearny","2014-09-14",-2.37046245794298
+"169","Grant Avenue at Columbus Avenue","2014-09-01",-16.3157551624637
+"170","Grant Avenue at Columbus Avenue","2014-09-02",-19.2722219370327
+"171","Grant Avenue at Columbus Avenue","2014-09-03",-21.6524562165479
+"172","Grant Avenue at Columbus Avenue","2014-09-04",-20.4825224171509
+"173","Grant Avenue at Columbus Avenue","2014-09-05",-12.2353110305622
+"174","Grant Avenue at Columbus Avenue","2014-09-06",-4.97536004075899
+"175","Grant Avenue at Columbus Avenue","2014-09-07",-4.2245038603776
+"176","Grant Avenue at Columbus Avenue","2014-09-08",-17.2292918276937
+"177","Grant Avenue at Columbus Avenue","2014-09-09",-20.1857586022627
+"178","Grant Avenue at Columbus Avenue","2014-09-10",-22.5659928817779
+"179","Grant Avenue at Columbus Avenue","2014-09-11",-21.3960590823809
+"180","Grant Avenue at Columbus Avenue","2014-09-12",-13.1488476957922
+"181","Grant Avenue at Columbus Avenue","2014-09-13",-5.88889670598903
+"182","Grant Avenue at Columbus Avenue","2014-09-14",-5.13804052560764
+"183","Embarcadero at Sansome","2014-09-01",7.28305440487239
+"184","Embarcadero at Sansome","2014-09-02",9.63688801475651
+"185","Embarcadero at Sansome","2014-09-03",10.6544988933842
+"186","Embarcadero at Sansome","2014-09-04",11.3751071131996
+"187","Embarcadero at Sansome","2014-09-05",12.0734215187347
+"188","Embarcadero at Sansome","2014-09-06",11.1221350454379
+"189","Embarcadero at Sansome","2014-09-07",14.2523622376256
+"190","Embarcadero at Sansome","2014-09-08",8.09447534821452
+"191","Embarcadero at Sansome","2014-09-09",10.4483089580986
+"192","Embarcadero at Sansome","2014-09-10",11.4659198367264
+"193","Embarcadero at Sansome","2014-09-11",12.1865280565418
+"194","Embarcadero at Sansome","2014-09-12",12.8848424620768
+"195","Embarcadero at Sansome","2014-09-13",11.93355598878
+"196","Embarcadero at Sansome","2014-09-14",15.0637831809678
+"197","Embarcadero at Vallejo","2014-09-01",5.42400729730798
+"198","Embarcadero at Vallejo","2014-09-02",2.65368010940118
+"199","Embarcadero at Vallejo","2014-09-03",7.4718962119434
+"200","Embarcadero at Vallejo","2014-09-04",8.22173856782842
+"201","Embarcadero at Vallejo","2014-09-05",6.91174973273613
+"202","Embarcadero at Vallejo","2014-09-06",6.48727480439111
+"203","Embarcadero at Vallejo","2014-09-07",5.83214275148384
+"204","Embarcadero at Vallejo","2014-09-08",5.97885110334701
+"205","Embarcadero at Vallejo","2014-09-09",3.20852391544021
+"206","Embarcadero at Vallejo","2014-09-10",8.02674001798242
+"207","Embarcadero at Vallejo","2014-09-11",8.77658237386744
+"208","Embarcadero at Vallejo","2014-09-12",7.46659353877515
+"209","Embarcadero at Vallejo","2014-09-13",7.04211861043014
+"210","Embarcadero at Vallejo","2014-09-14",6.38698655752287
+"211","Broadway St at Battery St","2014-09-01",-2.18342371370424
+"212","Broadway St at Battery St","2014-09-02",-1.93055641608315
+"213","Broadway St at Battery St","2014-09-03",-2.53409444799172
+"214","Broadway St at Battery St","2014-09-04",-4.0681234324306
+"215","Broadway St at Battery St","2014-09-05",-5.40165778870037
+"216","Broadway St at Battery St","2014-09-06",0.184989976169772
+"217","Broadway St at Battery St","2014-09-07",-0.747746575204572
+"218","Broadway St at Battery St","2014-09-08",-2.35504132840558
+"219","Broadway St at Battery St","2014-09-09",-2.10217403078449
+"220","Broadway St at Battery St","2014-09-10",-2.70571206269306
+"221","Broadway St at Battery St","2014-09-11",-4.23974104713193
+"222","Broadway St at Battery St","2014-09-12",-5.57327540340171
+"223","Broadway St at Battery St","2014-09-13",0.0133723614684325
+"224","Broadway St at Battery St","2014-09-14",-0.91936418990591
+"225","Davis at Jackson","2014-09-01",2.00573609161441
+"226","Davis at Jackson","2014-09-02",2.10025626004298
+"227","Davis at Jackson","2014-09-03",1.87129231098691
+"228","Davis at Jackson","2014-09-04",2.79691672060326
+"229","Davis at Jackson","2014-09-05",0.99870708525596
+"230","Davis at Jackson","2014-09-06",0.0129544500774175
+"231","Davis at Jackson","2014-09-07",-1.1500827782112
+"232","Davis at Jackson","2014-09-08",1.84464261814407
+"233","Davis at Jackson","2014-09-09",1.93916278657265
+"234","Davis at Jackson","2014-09-10",1.71019883751657
+"235","Davis at Jackson","2014-09-11",2.63582324713293
+"236","Davis at Jackson","2014-09-12",0.837613611785627
+"237","Davis at Jackson","2014-09-13",-0.148139023392916
+"238","Davis at Jackson","2014-09-14",-1.31117625168153
+"239","Clay at Battery","2014-09-01",2.02533617166416
+"240","Clay at Battery","2014-09-02",-0.150087076694998
+"241","Clay at Battery","2014-09-03",0.336362888951038
+"242","Clay at Battery","2014-09-04",1.86962649025876
+"243","Clay at Battery","2014-09-05",0.676495252574935
+"244","Clay at Battery","2014-09-06",2.61235748265269
+"245","Clay at Battery","2014-09-07",1.51631769826672
+"246","Clay at Battery","2014-09-08",2.98749671884064
+"247","Clay at Battery","2014-09-09",0.812073470481485
+"248","Clay at Battery","2014-09-10",1.29852343612752
+"249","Clay at Battery","2014-09-11",2.83178703743524
+"250","Clay at Battery","2014-09-12",1.63865579975142
+"251","Clay at Battery","2014-09-13",3.57451802982918
+"252","Clay at Battery","2014-09-14",2.4784782454432
+"253","Harry Bridges Plaza (Ferry Building)","2014-09-01",-4.19227700237713
+"254","Harry Bridges Plaza (Ferry Building)","2014-09-02",-8.2286361783423
+"255","Harry Bridges Plaza (Ferry Building)","2014-09-03",-7.87687913486447
+"256","Harry Bridges Plaza (Ferry Building)","2014-09-04",-5.93819575006841
+"257","Harry Bridges Plaza (Ferry Building)","2014-09-05",-6.33415537256931
+"258","Harry Bridges Plaza (Ferry Building)","2014-09-06",0.293125506771918
+"259","Harry Bridges Plaza (Ferry Building)","2014-09-07",-4.83539142662201
+"260","Harry Bridges Plaza (Ferry Building)","2014-09-08",-2.50330966692361
+"261","Harry Bridges Plaza (Ferry Building)","2014-09-09",-6.53966884288877
+"262","Harry Bridges Plaza (Ferry Building)","2014-09-10",-6.18791179941094
+"263","Harry Bridges Plaza (Ferry Building)","2014-09-11",-4.24922841461488
+"264","Harry Bridges Plaza (Ferry Building)","2014-09-12",-4.64518803711579
+"265","Harry Bridges Plaza (Ferry Building)","2014-09-13",1.98209284222545
+"266","Harry Bridges Plaza (Ferry Building)","2014-09-14",-3.14642409116848
+"267","Steuart at Market","2014-09-01",2.83706292927701
+"268","Steuart at Market","2014-09-02",1.16878587937929
+"269","Steuart at Market","2014-09-03",0.333234209769238
+"270","Steuart at Market","2014-09-04",3.64011344977473
+"271","Steuart at Market","2014-09-05",0.296917930117565
+"272","Steuart at Market","2014-09-06",6.0081157217925
+"273","Steuart at Market","2014-09-07",3.19144343511714
+"274","Steuart at Market","2014-09-08",3.03944388165797
+"275","Steuart at Market","2014-09-09",1.37116683176024
+"276","Steuart at Market","2014-09-10",0.53561516215019
+"277","Steuart at Market","2014-09-11",3.84249440215568
+"278","Steuart at Market","2014-09-12",0.499298882498517
+"279","Steuart at Market","2014-09-13",6.21049667417345
+"280","Steuart at Market","2014-09-14",3.39382438749809
+"281","Beale at Market","2014-09-01",-11.490484110226
+"282","Beale at Market","2014-09-02",-10.1840199422765
+"283","Beale at Market","2014-09-03",-9.20092373741063
+"284","Beale at Market","2014-09-04",-12.0348676492484
+"285","Beale at Market","2014-09-05",-6.14970444435763
+"286","Beale at Market","2014-09-06",-5.12245402389732
+"287","Beale at Market","2014-09-07",-3.99684664049349
+"288","Beale at Market","2014-09-08",-12.0977278365767
+"289","Beale at Market","2014-09-09",-10.7912636686272
+"290","Beale at Market","2014-09-10",-9.80816746376135
+"291","Beale at Market","2014-09-11",-12.6421113755992
+"292","Beale at Market","2014-09-12",-6.75694817070835
+"293","Beale at Market","2014-09-13",-5.72969775024804
+"294","Beale at Market","2014-09-14",-4.60409036684421
+"295","Mechanics Plaza (Market at Battery)","2014-09-01",-3.11183442205277
+"296","Mechanics Plaza (Market at Battery)","2014-09-02",-2.71217660657176
+"297","Mechanics Plaza (Market at Battery)","2014-09-03",-1.38965842729224
+"298","Mechanics Plaza (Market at Battery)","2014-09-04",-4.70572987828913
+"299","Mechanics Plaza (Market at Battery)","2014-09-05",0.237674739228976
+"300","Mechanics Plaza (Market at Battery)","2014-09-06",-0.834279865412191
+"301","Mechanics Plaza (Market at Battery)","2014-09-07",-1.06645918569909
+"302","Mechanics Plaza (Market at Battery)","2014-09-08",-3.23244085901499
+"303","Mechanics Plaza (Market at Battery)","2014-09-09",-2.83278304353398
+"304","Mechanics Plaza (Market at Battery)","2014-09-10",-1.51026486425446
+"305","Mechanics Plaza (Market at Battery)","2014-09-11",-4.82633631525135
+"306","Mechanics Plaza (Market at Battery)","2014-09-12",0.117068302266756
+"307","Mechanics Plaza (Market at Battery)","2014-09-13",-0.954886302374411
+"308","Mechanics Plaza (Market at Battery)","2014-09-14",-1.18706562266131
+"309","Embarcadero at Folsom","2014-09-01",-0.955822396255395
+"310","Embarcadero at Folsom","2014-09-02",-1.0859863070217
+"311","Embarcadero at Folsom","2014-09-03",-1.08995216759432
+"312","Embarcadero at Folsom","2014-09-04",1.06047289368767
+"313","Embarcadero at Folsom","2014-09-05",-1.00999379186673
+"314","Embarcadero at Folsom","2014-09-06",-0.922081322592367
+"315","Embarcadero at Folsom","2014-09-07",-3.19069713018232
+"316","Embarcadero at Folsom","2014-09-08",-1.54731564535922
+"317","Embarcadero at Folsom","2014-09-09",-1.67747955612553
+"318","Embarcadero at Folsom","2014-09-10",-1.68144541669814
+"319","Embarcadero at Folsom","2014-09-11",0.468979644583848
+"320","Embarcadero at Folsom","2014-09-12",-1.60148704097055
+"321","Embarcadero at Folsom","2014-09-13",-1.51357457169619
+"322","Embarcadero at Folsom","2014-09-14",-3.78219037928615
+"323","Temporary Transbay Terminal (Howard at Beale)","2014-09-01",-3.69691105906772
+"324","Temporary Transbay Terminal (Howard at Beale)","2014-09-02",-5.06209213472521
+"325","Temporary Transbay Terminal (Howard at Beale)","2014-09-03",-7.7878752313736
+"326","Temporary Transbay Terminal (Howard at Beale)","2014-09-04",-7.88834500678745
+"327","Temporary Transbay Terminal (Howard at Beale)","2014-09-05",-13.2247534668526
+"328","Temporary Transbay Terminal (Howard at Beale)","2014-09-06",-1.10270089603212
+"329","Temporary Transbay Terminal (Howard at Beale)","2014-09-07",-1.9074804699932
+"330","Temporary Transbay Terminal (Howard at Beale)","2014-09-08",-4.25953261604615
+"331","Temporary Transbay Terminal (Howard at Beale)","2014-09-09",-5.62471369170364
+"332","Temporary Transbay Terminal (Howard at Beale)","2014-09-10",-8.35049678835203
+"333","Temporary Transbay Terminal (Howard at Beale)","2014-09-11",-8.45096656376588
+"334","Temporary Transbay Terminal (Howard at Beale)","2014-09-12",-13.7873750238311
+"335","Temporary Transbay Terminal (Howard at Beale)","2014-09-13",-1.66532245301055
+"336","Temporary Transbay Terminal (Howard at Beale)","2014-09-14",-2.47010202697163
+"337","Market at Sansome","2014-09-01",6.77153467679255
+"338","Market at Sansome","2014-09-02",6.33759139560342
+"339","Market at Sansome","2014-09-03",4.52827940153002
+"340","Market at Sansome","2014-09-04",4.58687979277818
+"341","Market at Sansome","2014-09-05",4.71091082856135
+"342","Market at Sansome","2014-09-06",-8.7380078500607
+"343","Market at Sansome","2014-09-07",-4.63939316722543
+"344","Market at Sansome","2014-09-08",3.03365633610656
+"345","Market at Sansome","2014-09-09",2.59971305491743
+"346","Market at Sansome","2014-09-10",0.79040106084403
+"347","Market at Sansome","2014-09-11",0.849001452092192
+"348","Market at Sansome","2014-09-12",0.973032487875354
+"349","Market at Sansome","2014-09-13",-12.4758861907467
+"350","Market at Sansome","2014-09-14",-8.37727150791142
+"351","Spear at Folsom","2014-09-01",1.08883804706037
+"352","Spear at Folsom","2014-09-02",1.36492763078004
+"353","Spear at Folsom","2014-09-03",0.414640600352516
+"354","Spear at Folsom","2014-09-04",2.03845881243845
+"355","Spear at Folsom","2014-09-05",2.14338319844396
+"356","Spear at Folsom","2014-09-06",-0.736512269348664
+"357","Spear at Folsom","2014-09-07",0.578952289256464
+"358","Spear at Folsom","2014-09-08",1.65944030286334
+"359","Spear at Folsom","2014-09-09",1.93552988658302
+"360","Spear at Folsom","2014-09-10",0.985242856155493
+"361","Spear at Folsom","2014-09-11",2.60906106824143
+"362","Spear at Folsom","2014-09-12",2.71398545424694
+"363","Spear at Folsom","2014-09-13",-0.165910013545687
+"364","Spear at Folsom","2014-09-14",1.14955454505944
+"365","Howard at 2nd","2014-09-01",2.81936274030507
+"366","Howard at 2nd","2014-09-02",2.46078142705131
+"367","Howard at 2nd","2014-09-03",3.32658042689622
+"368","Howard at 2nd","2014-09-04",3.95344301936626
+"369","Howard at 2nd","2014-09-05",4.42305345537064
+"370","Howard at 2nd","2014-09-06",1.3732030340333
+"371","Howard at 2nd","2014-09-07",0.275815919636181
+"372","Howard at 2nd","2014-09-08",2.84150495051644
+"373","Howard at 2nd","2014-09-09",2.48292363726268
+"374","Howard at 2nd","2014-09-10",3.34872263710758
+"375","Howard at 2nd","2014-09-11",3.97558522957763
+"376","Howard at 2nd","2014-09-12",4.44519566558201
+"377","Howard at 2nd","2014-09-13",1.39534524424467
+"378","Howard at 2nd","2014-09-14",0.29795812984755
+"379","Embarcadero at Bryant","2014-09-01",-9.21672845572532
+"380","Embarcadero at Bryant","2014-09-02",-13.4977645144046
+"381","Embarcadero at Bryant","2014-09-03",-18.0524200211146
+"382","Embarcadero at Bryant","2014-09-04",-15.5461629346892
+"383","Embarcadero at Bryant","2014-09-05",-21.1673696863008
+"384","Embarcadero at Bryant","2014-09-06",-20.6215125647494
+"385","Embarcadero at Bryant","2014-09-07",-21.439613103645
+"386","Embarcadero at Bryant","2014-09-08",-18.3230642760779
+"387","Embarcadero at Bryant","2014-09-09",-22.6041003347571
+"388","Embarcadero at Bryant","2014-09-10",-27.1587558414672
+"389","Embarcadero at Bryant","2014-09-11",-24.6524987550417
+"390","Embarcadero at Bryant","2014-09-12",-30.2737055066534
+"391","Embarcadero at Bryant","2014-09-13",-29.727848385102
+"392","Embarcadero at Bryant","2014-09-14",-30.5459489239975
+"393","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-01",0.049244383728577
+"394","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-02",-2.39203662859107
+"395","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-03",-0.407001167400925
+"396","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-04",1.16828180438815
+"397","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-05",2.80182263278788
+"398","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-06",-2.21008477937986
+"399","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-07",-0.610108156139832
+"400","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-08",-0.569803235319041
+"401","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-09",-3.01108424763868
+"402","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-10",-1.02604878644854
+"403","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-11",0.549234185340528
+"404","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-12",2.18277501374026
+"405","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-13",-2.82913239842748
+"406","Yerba Buena Center of the Arts (3rd @ Howard)","2014-09-14",-1.22915577518745
+"407","2nd at Folsom","2014-09-01",-16.8166356381134
+"408","2nd at Folsom","2014-09-02",-15.6914415020492
+"409","2nd at Folsom","2014-09-03",-13.1950298061047
+"410","2nd at Folsom","2014-09-04",-13.3445946286668
+"411","2nd at Folsom","2014-09-05",-9.27125152113915
+"412","2nd at Folsom","2014-09-06",-2.17863009239277
+"413","2nd at Folsom","2014-09-07",-1.32343094702649
+"414","2nd at Folsom","2014-09-08",-15.98330230478
+"415","2nd at Folsom","2014-09-09",-14.8581081687158
+"416","2nd at Folsom","2014-09-10",-12.3616964727714
+"417","2nd at Folsom","2014-09-11",-12.5112612953335
+"418","2nd at Folsom","2014-09-12",-8.43791818780582
+"419","2nd at Folsom","2014-09-13",-1.34529675905944
+"420","2nd at Folsom","2014-09-14",-0.490097613693163
+"421","2nd at South Park","2014-09-01",-8.91500759727265
+"422","2nd at South Park","2014-09-02",-4.48508356333639
+"423","2nd at South Park","2014-09-03",-5.74862297305054
+"424","2nd at South Park","2014-09-04",-5.52839017144128
+"425","2nd at South Park","2014-09-05",-3.62556451336724
+"426","2nd at South Park","2014-09-06",-1.45237014560338
+"427","2nd at South Park","2014-09-07",-2.91468078794313
+"428","2nd at South Park","2014-09-08",-10.6411980734631
+"429","2nd at South Park","2014-09-09",-6.21127403952686
+"430","2nd at South Park","2014-09-10",-7.47481344924102
+"431","2nd at South Park","2014-09-11",-7.25458064763176
+"432","2nd at South Park","2014-09-12",-5.35175498955771
+"433","2nd at South Park","2014-09-13",-3.17856062179385
+"434","2nd at South Park","2014-09-14",-4.6408712641336
+"435","2nd at Townsend","2014-09-01",0.383686635911996
+"436","2nd at Townsend","2014-09-02",2.7946334379279
+"437","2nd at Townsend","2014-09-03",5.01810180816923
+"438","2nd at Townsend","2014-09-04",-1.77701843409684
+"439","2nd at Townsend","2014-09-05",0.783915645712525
+"440","2nd at Townsend","2014-09-06",-0.0966701559313512
+"441","2nd at Townsend","2014-09-07",-2.88712350443277
+"442","2nd at Townsend","2014-09-08",0.0397817967273584
+"443","2nd at Townsend","2014-09-09",2.45072859874326
+"444","2nd at Townsend","2014-09-10",4.67419696898459
+"445","2nd at Townsend","2014-09-11",-2.12092327328148
+"446","2nd at Townsend","2014-09-12",0.440010806527887
+"447","2nd at Townsend","2014-09-13",-0.440574995115989
+"448","2nd at Townsend","2014-09-14",-3.23102834361741
+"449","San Francisco Caltrain (Townsend at 4th)","2014-09-01",67.677644364694
+"450","San Francisco Caltrain (Townsend at 4th)","2014-09-02",60.2855614417689
+"451","San Francisco Caltrain (Townsend at 4th)","2014-09-03",47.2803715290513
+"452","San Francisco Caltrain (Townsend at 4th)","2014-09-04",47.1677817124495
+"453","San Francisco Caltrain (Townsend at 4th)","2014-09-05",44.9110965607276
+"454","San Francisco Caltrain (Townsend at 4th)","2014-09-06",5.99613378230787
+"455","San Francisco Caltrain (Townsend at 4th)","2014-09-07",9.78328589609257
+"456","San Francisco Caltrain (Townsend at 4th)","2014-09-08",69.5773240077428
+"457","San Francisco Caltrain (Townsend at 4th)","2014-09-09",62.1852410848177
+"458","San Francisco Caltrain (Townsend at 4th)","2014-09-10",49.1800511721001
+"459","San Francisco Caltrain (Townsend at 4th)","2014-09-11",49.0674613554983
+"460","San Francisco Caltrain (Townsend at 4th)","2014-09-12",46.8107762037765
+"461","San Francisco Caltrain (Townsend at 4th)","2014-09-13",7.89581342535669
+"462","San Francisco Caltrain (Townsend at 4th)","2014-09-14",11.6829655391414
+"463","Townsend at 7th","2014-09-01",4.37517683425705
+"464","Townsend at 7th","2014-09-02",4.89729395557554
+"465","Townsend at 7th","2014-09-03",8.21344956810202
+"466","Townsend at 7th","2014-09-04",7.42185635353716
+"467","Townsend at 7th","2014-09-05",8.3130062949006
+"468","Townsend at 7th","2014-09-06",0.333084236521322
+"469","Townsend at 7th","2014-09-07",1.184691623193
+"470","Townsend at 7th","2014-09-08",4.2178827680919
+"471","Townsend at 7th","2014-09-09",4.73999988941039
+"472","Townsend at 7th","2014-09-10",8.05615550193687
+"473","Townsend at 7th","2014-09-11",7.26456228737201
+"474","Townsend at 7th","2014-09-12",8.15571222873545
+"475","Townsend at 7th","2014-09-13",0.175790170356172
+"476","Townsend at 7th","2014-09-14",1.02739755702785
+"477","San Francisco Caltrain 2 (330 Townsend)","2014-09-01",0.293385528662298
+"478","San Francisco Caltrain 2 (330 Townsend)","2014-09-02",4.33624707664822
+"479","San Francisco Caltrain 2 (330 Townsend)","2014-09-03",7.51597867390877
+"480","San Francisco Caltrain 2 (330 Townsend)","2014-09-04",0.296722689614592
+"481","San Francisco Caltrain 2 (330 Townsend)","2014-09-05",-4.83720393503804
+"482","San Francisco Caltrain 2 (330 Townsend)","2014-09-06",-3.05988398794802
+"483","San Francisco Caltrain 2 (330 Townsend)","2014-09-07",-0.990715890501835
+"484","San Francisco Caltrain 2 (330 Townsend)","2014-09-08",-0.144694141438891
+"485","San Francisco Caltrain 2 (330 Townsend)","2014-09-09",3.89816740654703
+"486","San Francisco Caltrain 2 (330 Townsend)","2014-09-10",7.07789900380758
+"487","San Francisco Caltrain 2 (330 Townsend)","2014-09-11",-0.141356980486597
+"488","San Francisco Caltrain 2 (330 Townsend)","2014-09-12",-5.27528360513923
+"489","San Francisco Caltrain 2 (330 Townsend)","2014-09-13",-3.49796365804921
+"490","San Francisco Caltrain 2 (330 Townsend)","2014-09-14",-1.42879556060302
