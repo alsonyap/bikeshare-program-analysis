@@ -35,7 +35,7 @@ Several hypothesis that could be uncovered:
 To start off, let's load the necessary packages, the CSV data file provided and the stations within San Francisco.
 
 ** Please place the tripdata file in the working directory for the code to run **
-```{r}
+```{r, message=FALSE}
 library(ggplot2)
 library(lubridate)
 library(plyr)
