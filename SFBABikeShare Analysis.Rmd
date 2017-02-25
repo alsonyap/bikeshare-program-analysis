@@ -1,8 +1,11 @@
 ---
-output: html_notebook
-author: "Alson Yap"
-contact: "alsonyap185@gmail.com"
 title: "Analysis of San Francisco Bay Area Bike Sharing Program"
+author: "Alson Yap"
+output:
+  html_notebook: default
+  html_document: default
+  pdf_document: default
+contact: alsonyap185@gmail.com
 ---
 
 ## 1 Introduction
@@ -10,6 +13,8 @@ title: "Analysis of San Francisco Bay Area Bike Sharing Program"
 **Introduction of SF Bay Area Bike Share: http://www.bayareabikeshare.com/ **
 
 **Data used: Year 1 Data, from Mar 2014 - Aug 2014, trips data ONLY.**
+
+** Link for the html page with plots available on http://rpubs.com/alsonyap/sfbabs_analysis **
 
 One of the most desirable wishes of the riders who uses this bike-sharing program is that they are able to get a bike at the nearest station from their current location and then able to dock at their destination bike station upon arriving.
 However, this is unlikely the case for some because of the irregularities in people movement across the days, timings of the day (think peak-hours traffic) and the starting and end location (most people would be heading towards central area).
